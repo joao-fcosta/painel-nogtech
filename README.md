@@ -52,8 +52,11 @@ painel-nogtech/
 
 ### Pré-requisitos
 
-Antes de iniciar este projeto, certifique-se de que o **pipeline de ETL (Airflow + PostgreSQL)** já esteja rodando na sua máquina. Além disso, é necessário ter instalado:
+Antes de iniciar este projeto, certifique-se de que o **pipeline de ETL (Airflow + PostgreSQL)** já esteja rodando na sua máquina.
 
+[![pipeline de ETL (Airflow + PostgreSQL)](https://img.shields.io/badge/Acessar_Repositório-Pipeline_NogTech-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keven-rdr/bigdata)
+
+Além disso, é necessário ter instalado:
 * Node.js (versão 18+ recomendada);
 * npm (Gerenciador de pacotes do Node);
 * Git.
